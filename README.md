@@ -5,4 +5,5 @@ This is my responsibility to create a tool to automatically predict the price of
 
 I really want to thank my leader because she believes me that I can do it. And I really learn a lot during this internship and also realize that I should always be positive and confident!
 
-new.py is the code that I achieve the whole process
+new.py is the code that I achieve the whole process.
+Due to company's privacy, I will not upload data, even if all I have it's only sample data.
